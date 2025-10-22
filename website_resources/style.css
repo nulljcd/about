@@ -92,12 +92,6 @@ body {
     font-weight: 1000;
 }
 
-.line_spacer {
-    border-top: #807395 1px solid;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
 .link {
     color: #807395;
     text-decoration: underline;
